@@ -1,0 +1,172 @@
+html {
+  font-size: 20 px;
+  color: #060606;
+}
+#box {
+  width: 16rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.title {
+  width: 16rem;
+  height: 2rem;
+  background: #060606;
+  display: flex;
+}
+.title li {
+  flex: 1;
+  color: white;
+  text-align: center;
+  line-height: 2rem;
+}
+.title li img {
+  height: 1.2rem;
+  margin-top: 0.25rem;
+}
+.green {
+  background: #4bccae;
+  width: 16rem;
+  height: 0.25rem;
+}
+.title2 {
+  width: 16rem;
+  height: 2.1rem;
+  background: #fafafa;
+  display: flex;
+}
+.title2 li {
+  flex: 1;
+  line-height: 2.1rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+.title2 li img {
+  height: 1.45rem;
+  vertical-align: middle;
+}
+.banner {
+  width: 16rem;
+  height: 7.7rem;
+}
+.list {
+  width: 16rem;
+  background: white;
+}
+.list li {
+  width: 16rem;
+  height: 2rem;
+  border-bottom: 1px solid #e0e0e0;
+  font-size: 0.8rem;
+  line-height: 2rem;
+  margin: 0 auto;
+}
+.list li span {
+  margin-left: 0.5rem;
+}
+.text1 {
+  width: 16rem;
+  height: 1.95rem;
+  background: #fafafa;
+  font-size: 0.75rem;
+  line-height: 1.95rem;
+}
+.text1 .span1 {
+  float: left;
+  margin-left: 0.5rem;
+}
+.text1 .span2 {
+  float: right;
+  margin-right: 0.5rem;
+}
+.text1 .span2 img {
+  width: 1.25rem;
+  height: 1.4rem;
+  vertical-align: middle;
+}
+.list2 {
+  width: 16rem;
+  height: 2rem;
+  display: flex;
+}
+.list2 li {
+  flex: 1;
+}
+.list2 li span {
+  margin-left: 0.5rem;
+  font-size: 0.95rem;
+}
+.text2 {
+  overflow: hidden;
+  width: 16rem;
+  height: 6.5rem;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+.text2 p {
+  font-size: 0.85rem;
+}
+.text2 span {
+  font-size: 0.7rem;
+  color: #454545;
+}
+.text2 img {
+  height: 3.75rem;
+  width: 5.2rem;
+  margin-right: 0.5rem;
+}
+.text3 {
+  margin-top: 0.5rem;
+}
+.list3 li {
+  width: 16rem;
+  height: 2rem;
+  border-bottom: 1px solid #e0e0e0;
+  margin-left: 0.5rem;
+  font-size: 0.8rem;
+  line-height: 2rem;
+}
+.text4 {
+  width: 16rem;
+  height: 2.95rem;
+  background: #fafafa;
+  font-size: 0.8rem;
+}
+.text4 p {
+  text-align: center;
+  line-height: 2.95rem;
+}
+.text4 img {
+  vertical-align: middle;
+  width: 1.5rem;
+  height: 1.4rem;
+}
+.blue {
+  background: #6eb8a9;
+  width: 16rem;
+  height: 0.25rem;
+}
+.foot {
+  background: #060606;
+  width: 16rem;
+  height: 3.65rem;
+}
+.footer {
+  width: 15rem;
+  height: 2.25rem;
+  color: white;
+  display: flex;
+  line-height: 3.65rem;
+  text-align: center;
+  font-size: 0.75rem;
+}
+.footer img {
+  width: 1.5rem;
+  height: 1.25rem;
+  vertical-align: middle;
+}
+.footer li {
+  flex: 1;
+  margin-left: 0.25rem;
+}
+/*# sourceMappingURL=test2.css.map */
